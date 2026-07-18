@@ -26,13 +26,6 @@ Most of my security, cloud, and client work lives in private repos under NDA —
 
 `Python` · `TypeScript / Node` · `Bash` · `AWS` · `OCI` · `Docker` · `Terraform` · `React` · `Flask` · `Express`
 
-## GitHub
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jmalbarra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmalbarra&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
-
 ---
 
-<sub>🌐 [cobrasecops.com](https://cobrasecops.com)</sub>
+<sub>🌐 <a href="https://cobrasecops.com">cobrasecops.com</a></sub>
