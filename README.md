@@ -1,48 +1,34 @@
-<h1 align="center">Hey, soy Juan Manuel 👋</h1>
+# Juan Manuel Albarracín
 
-<p align="center">
-  Security-minded software engineer building automation, cloud tooling and AI-assisted products.
-</p>
+Software engineer working across **security, cloud infrastructure, and AI-driven products**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/focus-security%20%7C%20cloud%20%7C%20AI-blue" alt="focus badges"/>
-</p>
+I like understanding systems well enough to break them, automating what shouldn't be manual, and shipping things that actually run in production — not just demos.
 
----
+## What I work on
 
-### 🧭 Sobre mí
+- **Security** — web vulnerability scanning, secret detection, offensive & defensive tooling
+- **Cloud & infrastructure** — AWS, OCI, containerized deployments, IaC, self-hosting
+- **AI-assisted products** — applied LLM tooling, automation, data analysis
+- **Full-stack** — backends, APIs, and production-facing web apps
 
-Trabajo en la intersección entre **seguridad ofensiva**, **infraestructura cloud** y **desarrollo de producto con IA**. Me gusta romper cosas para entenderlas mejor, automatizar lo repetitivo y llevar ideas de prototipo a producción.
+## Featured projects
 
-- 🔐 Investigación de seguridad: detección de secretos, hardening, tooling ofensivo/defensivo
-- ☁️ Infraestructura cloud (AWS, OCI) e IaC
-- 🤖 Productos con IA/LLMs: agentes, análisis de datos, automatización
-- 🛠️ Full-stack: desde APIs y backends hasta apps y sitios de producción
-
-### 🧰 Stack
-
-`Python` · `TypeScript/Node` · `Bash` · `AWS` · `OCI` · `Docker` · `Terraform` · `React` · `WordPress` · `Flipper Zero / hardware hacking`
-
-### 📌 Proyectos destacados
-
-| Proyecto | Descripción |
+| Project | What it is |
 |---|---|
-| [`study-buddy`](https://github.com/jmalbarra/study-buddy) | App de estudio/aprendizaje asistido |
-| [`heo-linkfree`](https://github.com/jmalbarra/heo-linkfree) | Link-in-bio / landing personal |
-| [`heo-website-bootstrap`](https://github.com/jmalbarra/heo-website-bootstrap) | Base de sitio web reutilizable |
-| [`aws-proj`](https://github.com/jmalbarra/aws-proj) | Experimentos y utilidades sobre AWS |
+| [**cobra-secops**](https://github.com/jmalbarra/cobra-secops) | Web security scanner (10 modules: XSS, SQLi, headers, SSL, CORS…) with CLI + web UI. Live at [cobrasecops.com](https://cobrasecops.com) |
+| [**oci-vm-manager**](https://github.com/jmalbarra/oci-vm-manager) | Web panel to manage a shared cloud VM — 2FA, rate limiting, SSRF/CSRF protection, automated deploys |
+| [**secret-hunter**](https://github.com/jmalbarra/secret-hunter) | Toolkit to find and validate leaked API keys/secrets in code and file dumps |
+| [**study-buddy**](https://github.com/jmalbarra/study-buddy) | Assisted-learning app |
 
-*(sumo proyectos de seguridad, cloud e IA de forma continua — varios son privados por acuerdos de confidencialidad, así que no todos aparecen listados acá)*
+Most of my security, cloud, and client work lives in private repos under NDA — not reflected here, but happy to discuss on request.
 
-### 📊 Stats
+## Stack
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jmalbarra&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmalbarra&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
+`Python` · `TypeScript / Node` · `Bash` · `AWS` · `OCI` · `Docker` · `Terraform` · `React` · `Flask` · `Express`
 
-### 📫 Contacto
+## GitHub
 
 <p align="left">
-  <a href="https://github.com/jmalbarra"><img src="https://img.shields.io/badge/GitHub-jmalbarra-181717?logo=github" /></a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jmalbarra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmalbarra&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
