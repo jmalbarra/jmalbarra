@@ -15,10 +15,10 @@ I like understanding systems well enough to break them, automating what shouldn'
 
 | Project | What it is |
 |---|---|
-| [**cobra-secops**](https://github.com/jmalbarra/cobra-secops) | Web security scanner (10 modules: XSS, SQLi, headers, SSL, CORS…) with CLI + web UI. Live at [cobrasecops.com](https://cobrasecops.com) |
-| [**oci-vm-manager**](https://github.com/jmalbarra/oci-vm-manager) | Web panel to manage a shared cloud VM — 2FA, rate limiting, SSRF/CSRF protection, automated deploys |
-| [**secret-hunter**](https://github.com/jmalbarra/secret-hunter) | Toolkit to find and validate leaked API keys/secrets in code and file dumps |
-| [**study-buddy**](https://github.com/jmalbarra/study-buddy) | Assisted-learning app |
+| [**cobra-secops**](https://github.com/jmalbarra/cobra-secops) | Web security scanner aimed at AI-generated code — 10 modules (XSS, SQLi, security headers, SSL/TLS, CORS…) with a CLI and web UI. Live at [cobrasecops.com](https://cobrasecops.com) |
+| [**oci-vm-manager**](https://github.com/jmalbarra/oci-vm-manager) | Web panel to manage a cloud VM (Caddy, domains, deploys) — built with 2FA, rate limiting, and SSRF/CSRF hardening |
+| [**secret-hunter**](https://github.com/jmalbarra/secret-hunter) | Toolkit to find and validate leaked API keys and secrets across code and file dumps |
+| [**Melete**](https://github.com/jmalbarra/study-buddy) | Practice app for musicians that tracks whether your study is *balanced* — not just how long you played |
 
 Most of my security, cloud, and client work lives in private repos under NDA — not reflected here, but happy to discuss on request.
 
@@ -32,3 +32,7 @@ Most of my security, cloud, and client work lives in private repos under NDA —
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=jmalbarra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmalbarra&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
+
+---
+
+<sub>🌐 [cobrasecops.com](https://cobrasecops.com)</sub>
